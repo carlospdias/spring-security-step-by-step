@@ -131,3 +131,8 @@ http://localhost:8080/realms/meu-app-realm/protocol/openid-connect/logout?redire
 ```
 
 Este tutorial cobriu os pilares fundamentais para começar a usar o Keycloak. Com esses conceitos, você está apto a configurar um ambiente de autenticação e autorização robusto para suas aplicações. Explore o console de administração para descobrir funcionalidades mais avançadas, como federação de identidades, fluxos de autenticação personalizados e políticas de autorização detalhadas.
+
+
+---------------------
+### Apoio
+https://medium.com/@douglasaleixomendes/keycloak-integrando-com-a-api-tutorial-ebef9ba510a9
